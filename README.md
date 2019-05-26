@@ -1,4 +1,4 @@
-# CAN-C-RHEL
+# Multi-Instance Ubuntu 18.04
 
 ## Usage
 Make changes in variables.tf file. 
